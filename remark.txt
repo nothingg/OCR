@@ -1,0 +1,7 @@
+install pagekage pdf2image
+install pagekage pytesseract
+
+install Tesseract (exe)
+install pdf2image ( copy to program file)
+
+set env path
